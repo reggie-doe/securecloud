@@ -11,3 +11,13 @@
 ## Notes
 - Remember to replace placeholders in the documentation.
 
+# SecureCloud - Debugging
+
+We’re currently troubleshooting the API integration. Below are some temporary configurations:
+
+## Temporary API Key
+
+API key: flag{debugging_success}
+
+_Note: This key will be removed in the next commit._
+
